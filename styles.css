@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI';
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+}
+.header h1{
+    color: #38B2AC;
+    font-size: 24px;
+}
+
+.header h2 {
+    color: #5A67D8;
+    font-size: 21px;
+    margin: 20px;
+}
+
+.header p {
+    color: rgb(20, 20, 20);
+    margin: 18px;
+    text-align: justify;
+    max-width: 65%;
+}
+
+.name img{
+    height: auto;
+    float: right;
+    width: 500px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+
+
